@@ -25,7 +25,7 @@ Novel concurrency control protocol achieving **4.5x performance improvement** fo
 - 🛠️ **Tech:** C++, POSIX threads, formal verification
 - ✅ **Proven:** Correctness, safety, liveness properties
 
-### [CobbleDB](https://github.com/deadlockcharlie/cobbledb) - LSM Tree Store
+### CobbleDB - LSM Tree Store
 Educational Log-Structured Merge tree key-value store achieving performance **comparable to RocksDB in <3K lines** of code through modular, compositional design.
 
 - 🛠️ **Tech:** Java, RocksDB APIs
