@@ -11,10 +11,16 @@ I build high-performance distributed databases, storage systems, and geo-replica
 
 ## 🚀 Featured Projects
 
+### [GoBlocks](https://github.com/deadlockcharlie/GoBlocks) - Replicated leaderless block storage
+A distributed block storage system built in Go with replication, inspired by concepts from GFS and Ceph. Implements consistent hashing, service discovery and dynamic membership
+
+- 🛠️ **Tech:** Golang, Zookeeper
+
+
 ### [GRACE](https://github.com/deadlockcharlie/ReplicatedGDB) - Geo-Replicated Graph Database
 Middleware achieving **100x lower write latency** than consensus-based geo-replication while preserving application invariants across heterogeneous backends (Neo4j, MemGraph, ArangoDB, MongoDB).
 
-- 📄 **Paper:** VLDB 2026 (under review)
+- 📄 **Paper:** Preprint
 - 🛠️ **Tech:** TypeScript, Node.js, Docker, Yjs (CRDTs)
 - 📊 **Benchmarked:** LDBC SNB, Freebase, 6 geo-distributed sites
 
@@ -43,7 +49,7 @@ In-memory cache and checkpoint store for AntidoteDB distributed database achievi
 **Databases:** Neo4j, PostgreSQL, MongoDB, RocksDB, Redis
 
 ## 📚 Recent Publications
-- **PG-CRDT: Property Graph Replication** - VLDB 2026 (under review)
+- **PG-CRDT: Property Graph Replication** - Preprint
 - **CALock: Multi-granularity locking** - IPDPS 2025
 - **Local-First Property Graphs** - PaPoC @ EuroSys 2025
 
