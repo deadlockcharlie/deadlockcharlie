@@ -11,7 +11,7 @@ I build high-performance distributed databases, storage systems, and geo-replica
 
 ## 🚀 Featured Projects
 
-### [GoBlocks](https://github.com/deadlockcharlie/GoBlocks) - Replicated leaderless block storage
+### [GoBlocks](https://github.com/deadlockcharlie/GoBlocks) - Replicated Leaderless Block-Storage
 A distributed block storage system built in Go with replication, inspired by concepts from GFS and Ceph. Implements consistent hashing, service discovery and dynamic membership
 
 - 🛠️ **Tech:** Golang, Zookeeper
